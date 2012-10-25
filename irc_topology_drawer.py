@@ -2,7 +2,6 @@
 """
 Copyright 2012
 	Anton Zering <synth@lostprofile.de>
-	Jules Held <nemesis@creative-heads.org>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
